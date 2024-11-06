@@ -39,14 +39,10 @@ This project was developed as a team, with each member contributing to different
 
 We thank Code For All for the opportunity to participate in the bootcamp and the game jam, and for providing an amazing learning environment!
 
-## License
-
-[Insert the project's license, for example, MIT]
 
 ## Links
 
 * **Project Page:** [Link to the project page, if available]
-* **Code For All Bootcamp:** [Link to the bootcamp website]
 
 We hope you enjoy playing CtrlFight!
 
