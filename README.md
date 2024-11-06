@@ -2,7 +2,7 @@
 
 **Welcome to CtrlFight, a fast-paced fighting game developed in Java using the SimpleGraphics library!**
 
-This project was created during the first month of the Code For All bootcamp as part of a game jam organized by the bootcamp itself.
+This project was created after the first month of the Code For All bootcamp as part of a game jam organized by the bootcamp itself.
 
 ## About the Game
 
