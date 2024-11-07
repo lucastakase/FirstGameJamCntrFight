@@ -42,7 +42,7 @@ We thank Code For All for the opportunity to participate in the bootcamp and the
 
 ## Links
 
-* **Project Page:** [Link to the project page, if available]
+* **Project Page:** https://itch.io/jam/7-game-jam/rate/3046515
 
 We hope you enjoy playing CtrlFight!
 
