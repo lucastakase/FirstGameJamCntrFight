@@ -31,6 +31,13 @@ This project was created after the first month of the Code For All bootcamp as p
 2. **Menus:** Navigate through the menus using the mouse to choose your fighter, your arena, and start the fight.
 3. **Combat:** Use the configured keys to control your fighter's movements and attacks during the battle.
 
+## Pictures
+![Descrição da Imagem](gamejam4.png)
+![Descrição da Imagem](gamejam3.jpeg)
+![Descrição da Imagem](gamejam1.png)
+![Descrição da Imagem](gamejam2.jpeg)
+
+
 ## Contributions
 
 This project was developed as a team, with each member contributing to different aspects of the game. If you would like to contribute to the project, feel free to open a pull request.
